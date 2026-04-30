@@ -1,0 +1,16 @@
+# Runtime logs & state (generated during operation)
+runtime/
+*.log
+*.ndjson
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
