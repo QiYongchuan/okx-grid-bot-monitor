@@ -188,7 +188,7 @@ Start-ScheduledTask -TaskName 'OKX-Grid-Monitor-Demo'
 
 ## 作者
 
-- **我真的没有拼多多**（X: [@dotey](https://x.com/dotey)）
+- **我真的没有拼多多**（X: [我真的没有拼多多](https://x.com/nopinduoduo)）
 - AI 搭档：AI_kevin
 
 ---
